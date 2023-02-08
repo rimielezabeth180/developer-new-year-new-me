@@ -1,0 +1,35 @@
+.head-banner {
+
+
+    display: flex;
+}
+
+.banner2 {
+    margin-left: 250px;
+
+}
+
+.head-title {
+    font-size: 80px;
+}
+
+.banner-details {
+    margin-top: 150px;
+    margin-left: -700px;
+}
+
+.banner-paragraph {
+    margin-left: 40px;
+}
+
+.contact-btn {
+    margin-top: 30px;
+    margin-left: 350px;
+    padding: 20px 40px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(5, 90, 36);
+    color: rgb(235, 231, 239);
+
+}
