@@ -8,8 +8,6 @@
     align-items: center;
 }
 
-
-
 .title {
     font-size: 80px;
     margin-top: 200px;
@@ -17,11 +15,7 @@
 
 .banner-details {
     margin-bottom: 400px;
-
-
 }
-
-
 
 .contact-btn {
     margin-top: 30px;
@@ -32,13 +26,13 @@
     border: none;
     background-color: rgb(11, 91, 25);
     color: rgb(235, 231, 239);
-
-
 }
 
 
 
 /*Second Section*/
+
+
 
 .second-section {
     display: flex;
@@ -59,7 +53,9 @@
 }
 
 
+
 /* Third Section */
+
 
 
 .third-section {
@@ -83,7 +79,9 @@
 }
 
 
+
 /* Fourth Section */
+
 
 
 .fourth-title {
@@ -105,7 +103,11 @@
     font-size: 30px;
 }
 
+
+
 /* Fifth section */
+
+
 
 .fifth-section {
     background-image: url(./images/watch.png);
@@ -119,7 +121,11 @@
 
 }
 
+
+
 /* Sixth Section */
+
+
 
 .footer {
     display: flex;
