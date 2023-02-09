@@ -100,3 +100,18 @@
 .plan-paragraph {
     font-size: 30px;
 }
+
+.fifth-section {
+    background-image: url(./images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 500px;
+    margin-top: 100px;
+    /* padding-right: 200px; */
+}
+
+.gradient {
+    /* margin-left: 250px; */
+    /* margin-left: px; */
+    margin-top: 100px;
+
+}
