@@ -30,7 +30,7 @@
     border-radius: 10px;
     font-size: 20px;
     border: none;
-    background-color: rgb(5, 90, 36);
+    background-color: rgb(11, 91, 25);
     color: rgb(235, 231, 239);
 
 
@@ -59,8 +59,7 @@
 }
 
 
-
-
+/* Third Section */
 
 
 .third-section {
@@ -83,6 +82,10 @@
     font-size: 70px;
 }
 
+
+/* Fourth Section */
+
+
 .fourth-title {
     text-align: center;
     margin-top: 100px;
@@ -102,20 +105,21 @@
     font-size: 30px;
 }
 
+/* Fifth section */
+
 .fifth-section {
     background-image: url(./images/watch.png);
     background-repeat: no-repeat;
     margin-left: 500px;
     margin-top: 100px;
-    /* padding-right: 200px; */
 }
 
 .gradient {
-    /* margin-left: 250px; */
-    /* margin-left: px; */
     margin-top: 100px;
 
 }
+
+/* Sixth Section */
 
 .footer {
     display: flex;
