@@ -3,9 +3,6 @@
     background-repeat: no-repeat;
     margin-left: 250px;
     height: 100vh;
-
-
-    display: flex;
 }
 
 
@@ -20,11 +17,7 @@
 
 }
 
-.paragraph {
-    /* margin-right: 50px; */
-    /* font-size: 16px; */
 
-}
 
 .contact-btn {
     margin-top: 30px;
@@ -62,4 +55,34 @@
 
 .right-side {
     margin-right: 200px;
+}
+
+
+
+
+
+
+.third-section {
+    background-image: url("./images/Office-Worker-Girl\ .png");
+    background-repeat: no-repeat;
+    margin-left: 250px;
+    height: 100vh;
+    display: flex;
+    margin-top: 180px;
+    margin-left: 250px;
+    justify-content: space-around;
+}
+
+/* .left-side {
+    margin-left: 00px;
+} */
+
+
+.third-title {
+    margin-top: 150px;
+    margin-right: 1000px;
+}
+
+.my-dreams {
+    font-size: 70px;
 }
